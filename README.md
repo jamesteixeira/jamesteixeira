@@ -37,6 +37,10 @@ Administrator at the [Federal University of Rondônia](https://unir.br).
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/jamesteixeira)
 <br>
 <br>
+
+<span style="background-color: yellow;">This text has a yellow background.</span>
+<div style="background-color: lightblue; padding: 10px;">This is a block with a light blue background.</div>
+
 <!---
 ### 🚀 Linguagens Mais Usadas
 
