@@ -10,7 +10,7 @@ Administrator at the [Federal University of Rondônia](https://unir.br).
 2024 – Professional Master’s in Accounting and Management – [FUCAPE Business School](https://fucape.br)  
 *Dissertation: “Blockchain technology and small businesses: Impact on competitive advantage and performance?”*
 
-2016 – Postgraduate Certificate in Public Management – [FAEL University](https://posead.fael.edu.br/)  
+2016 – Postgraduate Certificate in Public Management – [FAEL](https://posead.fael.edu.br/)  
 *Final paper: “Analysis of the Multiple Intelligences profile of technical-administrative staff at UNIR – Rolim de Moura Campus”*
 
 2010 – Bachelor’s in Business Administration – [Federal University of Rondônia](https://unir.br)  
