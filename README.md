@@ -1,11 +1,11 @@
 # James Santos Teixeira
 
-#### 💼 PROFESSIONAL BACKGROUND
+### 💼 PROFESSIONAL BACKGROUND
 
 Administrator at the [Federal University of Rondônia](https://unir.br).
 <br>
 <br>
-#### 🎓 EDUCATION
+### 🎓 EDUCATION
 
 2024 – Professional Master’s in Accounting and Management – [FUCAPE Business School](https://fucape.br)  
 *Dissertation: “Blockchain technology and small businesses: Impact on competitive advantage and performance?”*
