@@ -17,9 +17,6 @@ Administrator at the [Federal University of Rondônia](https://unir.br).
 *Thesis: “Analysis of Multiple Intelligences in entrepreneurs from the Clothing Hub of Pimenta Bueno”*
 <br>
 <br>
-
-<p style="background-color: white">AQUI</p>
-
 ### 📌 AREAS OF INTEREST
 
 - General management
