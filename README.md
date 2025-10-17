@@ -1,6 +1,6 @@
 # James Santos Teixeira
 
-### 💼 PROFESSIONAL BACKGROUND
+#### 💼 PROFESSIONAL BACKGROUND
 
 Administrator at the [Federal University of Rondônia](https://unir.br).
 <br>
