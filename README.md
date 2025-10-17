@@ -25,7 +25,6 @@ Administrator at the [Federal University of Rondônia](https://unir.br).
 - Data analysis and innovation
 - Blockchain technology
 <br>
-<br>
 
 ### 📊 GitHub Stats
 
