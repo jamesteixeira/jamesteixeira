@@ -18,7 +18,7 @@ Administrator at the [Federal University of Rondônia](https://unir.br).
 <br>
 <br>
 
-<p style="background-color: purple">AQUI</p>
+<p style="background-color: white">AQUI</p>
 
 ### 📌 AREAS OF INTEREST
 
