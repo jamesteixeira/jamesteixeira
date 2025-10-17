@@ -5,12 +5,6 @@
 Administrator at the [Federal University of Rondônia](https://unir.br).
 <br>
 <br>
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/-jamesteixeira)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/jamesteixeira)
-<br>
-<br>
 ### 🎓 Education
 
 2024 – Professional Master’s in Accounting and Management – [FUCAPE Business School](https://fucape.br)  
@@ -31,10 +25,16 @@ Administrator at the [Federal University of Rondônia](https://unir.br).
 - Data analysis and innovation
 - Blockchain technology
 <br>
-
+<br>
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesteixeira&hide_title=true&show_icons=true&theme=dark)
+<br>
+<br>
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/-jamesteixeira)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/jamesteixeira)
 <br>
 <br>
 <!---
