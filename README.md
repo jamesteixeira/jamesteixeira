@@ -1,24 +1,42 @@
 # James Santos Teixeira
 
-### Atuação profissional
+### 💼 Professional Background
 
-Administrador na [Universidade Federal de Rondônia](https://unir.br).
-
-### Social
+Administrator at the [Federal University of Rondônia](https://unir.br).
+<br>
+<br>
+### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/-jamesteixeira)
-[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/jamesteixeira)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/jamesteixeira)
+<br>
+<br>
+### 🎓 Education
 
-### Formação acadêmica
+2024 – Professional Master’s in Accounting and Management – [FUCAPE Business School](https://fucape.br)  
+*Dissertation: “Blockchain technology and small businesses: Impact on competitive advantage and performance?”*
 
-2024 - Mestrado Profissional em Ciências Contábeis e Administração - [FUCAPE Business School](https://fucape.br) \
-2016 - Especialização em Gestão Pública - [FAEL](https://posead.fael.edu.br/) \
-2010 - Graduação em Administração - [Universidade Federal de Rondônia](https://unir.br)
+2016 – Postgraduate Certificate in Public Management – [FAEL University](https://posead.fael.edu.br/)  
+*Final paper: “Analysis of the Multiple Intelligences profile of technical-administrative staff at UNIR – Rolim de Moura Campus”*
 
-### Estatísticas no GitHub
+2010 – Bachelor’s in Business Administration – [Federal University of Rondônia](https://unir.br)  
+*Thesis: “Analysis of Multiple Intelligences in entrepreneurs from the Clothing Hub of Pimenta Bueno”*
+<br>
+<br>
+### 📌 Areas of Interest
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesteixeira&show_icons=true&theme=dark)
+- General management
+- Public management
+- Finance
+- Data analysis and innovation
+- Blockchain technology
+<br>
 
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesteixeira&hide_title=true&show_icons=true&theme=dark)
+<br>
+<br>
 <!---
 ### 🚀 Linguagens Mais Usadas
 
