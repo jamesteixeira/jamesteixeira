@@ -26,6 +26,7 @@ Administrator at the [Federal University of Rondônia](https://unir.br).
 - Blockchain technology
 <br>
 <br>
+
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesteixeira&hide_title=true&show_icons=true&theme=dark)
